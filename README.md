@@ -20,18 +20,21 @@ Below shows the tree stucture of the files for this project.
 │   .gitignore
 │   LICENSE.txt
 │   README.md
-│   
+│
 ├───data
 │   ├───interim
 │   │       add_init_raw_feats_20230416_0636.csv
-│   │       
+│   │
 │   ├───processed
 │   │       processed_bigfoot_data_20230416_1539.csv
-│   │       
+│   │
 │   └───raw
 │           bfro_reports_geocoded.csv
 │
+├───img
+│       dashboard_20230418_2000.png
+│
 └───notebooks
-    │   clean_raw_data.ipynb
-    │   get_text_features.ipynb
+        clean_raw_data.ipynb
+        get_text_features.ipynb
 ```
