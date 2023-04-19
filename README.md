@@ -6,6 +6,7 @@ This is a hobby project, see `LICENSE.txt` for more information.
 ## Dashboard
 The dashboard created from the processed data can be viewed at: https://public.tableau.com/app/profile/brown.star.kachina/viz/shared/NGM3D9N8S
 
+![dashboard](img/dashboard_20230418_2000.png)
 
 The above dashboard is interactive and allows the user to drill down into more indepth geographical details across several features.
 
