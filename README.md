@@ -4,7 +4,8 @@ The notebooks/data in this repo were used to construct a dataset that was used t
 This is a hobby project, see `LICENSE.txt` for more information.
 
 ## Dashboard
-The dashboard created from the processed data can be viewed at: https://public.tableau.com/shared/NGM3D9N8S?:display_count=n&:origin=viz_share_link
+The dashboard created from the processed data can be viewed at: https://public.tableau.com/app/profile/brown.star.kachina/viz/shared/NGM3D9N8S
+
 
 The above dashboard is interactive and allows the user to drill down into more indepth geographical details across several features.
 
